@@ -1,0 +1,12 @@
+DSA: chapter 1-6 till trees
+AWP: Part A
+Adv MC: Section A
+DSD: part A
+VLSI: //Add vlsi syllabus
+
+From DSP by Salivahanan:
+Chapter 1 complete,
+Chapter 4 complete,
+Chapter 5 complete,
+ DTFT, DFT, Circular Convolution from Chapter 6.
+Correlation is not in this book, so it can be done from Proakias.
