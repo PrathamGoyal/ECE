@@ -1,5 +1,5 @@
 DSA: chapter 1-6 till trees
-AWP: Part A
+AWP: Part A (Leave topic Dolph-Techebysheff arrays)
 Adv MC: Section A
 DSD: part A
 VLSI: //Add vlsi syllabus
@@ -10,3 +10,4 @@ Chapter 4 complete,
 Chapter 5 complete,
  DTFT, DFT, Circular Convolution from Chapter 6.
 Correlation is not in this book, so it can be done from Proakias.
+from prokias - 1st, 2nd, 3.1,-3.4,3.5.3,4th( intro, expression, properties, numericals) , 7.1,7.2,7.3.1
